@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/aws.png": "52a4c75125b19ab8c9121958146134a6",
 "assets/assets/firebase.png": "0e4792f1b38576bce30728eec593a301",
 "assets/assets/flutter.png": "bc20ac3c833cdfbb9230c8a0dc483d46",
-"assets/assets/FontManifest.json": "59c37979205b4b43589051e92e27cbcd",
+"assets/assets/FontManifest.json": "4b859210b1cb7cc0af63babc29eac841",
 "assets/assets/gcp.png": "b76e3a5e9cd9d2c30164ff9a87d9f8c2",
 "assets/assets/github.png": "d22ee3727a7216019c3848df6eafa024",
 "assets/assets/gitlab.png": "d8dd9f3a3a1275356f9e1428b144e99f",
@@ -38,10 +38,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b31c7dd96ee74332742a376acf13eddb",
-"/": "b31c7dd96ee74332742a376acf13eddb",
-"main.dart.js": "78da9eac93c4720b1bce686fcff0b6ee",
-"manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
+"index.html": "320bc0d173e500fb22729177439a7d65",
+"/": "320bc0d173e500fb22729177439a7d65",
+"main.dart.js": "abe7fb634fea84219a6a90b319887bbe",
+"manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
 
