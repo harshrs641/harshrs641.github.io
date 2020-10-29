@@ -34,18 +34,18 @@ class ProjectWidget extends StatelessWidget {
             children: <Widget>[
               Expanded(
                 flex: 40,
-                child: FadeInImage.memoryNetwork(
-                  image: _project.image,
-                  // fit: BoxFit.cover,
-                  width: width * .25,
-                  height: width * .25,
-                  placeholder: kTransparentImage,
-                ),
-                // child: Image.asset(
-                //   _project.image,
-                // width: width * .25,
-                // height: width * .25,
-                // )
+                // child: FadeInImage.memoryNetwork(
+                //   image: _project.image,
+                //   // fit: BoxFit.cover,
+                //   width: width * .25,
+                //   height: width * .25,
+                //   placeholder: kTransparentImage,
+                // ),
+                child: Image.asset(
+                  _project.image,
+                width: width * .25,
+                height: width * .25,
+                )
               ),
               // Expanded(
               //   flex: 3,

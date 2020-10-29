@@ -29,11 +29,7 @@ class AboutTab extends StatelessWidget {
                       Positioned.fill(
                           child: Container(color: Colors.grey[100])),
                       Positioned.fill(
-                        child: FadeInImage.memoryNetwork(
-                          image: Assets.avatar,
-                          fit: BoxFit.cover,
-                          placeholder: kTransparentImage,
-                        ),
+                        child:Image.asset(Assets.avatar, fit: BoxFit.cover,) ,
                       ),
                     ],
                   ),
